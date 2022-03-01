@@ -6,7 +6,7 @@ Draw a random card, flip the coin, or roll the dice.
 
 Built with SwiftUI, emojis, and SF Symbols.
 
-Refer to *screenRecording.MP4* to see it in action.
+[See it in action](https://twitter.com/heyvalvincent/status/1498230076646715396?s=21)
 
 ----
 
